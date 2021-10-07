@@ -2,10 +2,11 @@
 
 #### Introduce
 web of groupchat，For learning reference only。（June 2020）
+bilibili: https://www.bilibili.com/video/BV1Ap4y1D7iQ?spm_id_from=333.999.0.0
+![](https://file.makeyourchoice.cn/img/github/groupchat.jpg)
 
 #### Architecture
 vue-cli3
-
 
 #### How to install
 1.  import project to VS code/WebStorm/HbuilderX。
